@@ -1,0 +1,6 @@
+{
+  "name": "Take 7 Dry Cleaners",
+  "description": "Premium professional dry cleaning & garment care service in Barnet, London. Experience absolute craftsmanship, careful stain removal, and free collection & delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
